@@ -14,4 +14,4 @@ A dashboard is also given for visualization purpose.
    with duration of more than 20 hours. Relation can be approximated by 2nd degree curve
 4) Flight departing late at night and arriving early morning or late at night are cheapest.
 5) Flight prices increase with increase in number of stops.
-6) Delhi offers the cheapest flights while Hyderabad is most expensive city to fly to
+6) Delhi offers the cheapest flights while Hyderabad is most expensive city to fly to.
